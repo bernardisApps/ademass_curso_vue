@@ -1,10 +1,9 @@
 <template>
-  <DirectivaCondicional/>
+  <DirectivaIteracion/>
 </template>
 
 <script setup>
-    import DirectivaCondicional from './components/directivas/DirectivaCondicional'
-
+    import DirectivaIteracion from './components/directivas/DirectivaIteracion'
 </script>
 
 <style>
