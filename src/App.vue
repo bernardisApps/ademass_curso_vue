@@ -1,13 +1,11 @@
 <template>
-  <DirectivaIteracion/>
+  <DirectivaVBindStyle/>
 </template>
 
 <script setup>
-    import DirectivaIteracion from './components/directivas/DirectivaIteracion'
+    import DirectivaVBindStyle from './components/directivas/DirectivaVBindStyle.vue';
 </script>
 
 <style>
-  h1{
-    color: red;
-  }
+
 </style>
