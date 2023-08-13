@@ -38,9 +38,9 @@
                     content : 'Contenido de post 4',
                 }
             ]
-            let nombre = 'Matias';
+
             return{
-                nombre, data,
+                data
             }
         }
     }
