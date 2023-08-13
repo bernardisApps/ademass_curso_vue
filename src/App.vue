@@ -1,9 +1,9 @@
 <template>
-  <DirectivaVBindStyle/>
+  <PostList/>
 </template>
 
 <script setup>
-    import DirectivaVBindStyle from './components/directivas/DirectivaVBindStyle.vue';
+    import PostList from './components/comunicacion/PostList.vue'
 </script>
 
 <style>
