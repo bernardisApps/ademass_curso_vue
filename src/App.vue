@@ -1,9 +1,9 @@
 <template>
-  <PostList/>
+  <EjercicioDatosComputados/>
 </template>
 
 <script setup>
-    import PostList from './components/comunicacion/PostList.vue'
+    import EjercicioDatosComputados from './components/ejercicios/EjercicioDatosComputados.vue'
 </script>
 
 <style>
